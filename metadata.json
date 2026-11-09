@@ -1,0 +1,6 @@
+{
+  "name": "CarouselCraft AI - Social Media Carousel Studio",
+  "description": "AI-powered social media carousel creation platform for Instagram and LinkedIn. Transform raw ideas into structured, high-converting carousels with visual editing and multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
